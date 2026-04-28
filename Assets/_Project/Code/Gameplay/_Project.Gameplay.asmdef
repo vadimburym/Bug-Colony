@@ -1,0 +1,22 @@
+{
+    "name": "_Project.Gameplay",
+    "rootNamespace": "",
+    "references": [
+        "GUID:47695726108bc76468b4502de7958d07",
+        "GUID:26c6805e70e940f47956d7a6baf0ac2e",
+        "GUID:770c67661fcdd754d90e4932b00d6700",
+        "GUID:78d13e85e858d7b4b96244cad7723dec",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

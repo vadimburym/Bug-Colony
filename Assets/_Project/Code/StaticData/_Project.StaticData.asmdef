@@ -1,0 +1,17 @@
+{
+    "name": "_Project.StaticData",
+    "rootNamespace": "",
+    "references": [
+        "GUID:47695726108bc76468b4502de7958d07",
+        "GUID:9e24947de15b9834991c9d8411ea37cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

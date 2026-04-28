@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2b89c2cc75349b8988d9a2f505d192b, type: 3}
+  m_Name: StaticDataService
+  m_EditorClassIdentifier: _Project.StaticData::_Project.Code.StaticData.StaticDataService
+  MemoryPoolPipeline: {fileID: 11400000, guid: 8d161bc511a1a394080f455bb292d6a0, type: 2}
+  WidgetStaticData: {fileID: 11400000, guid: b28442547d1a4ec4fa4483f11f270369, type: 2}
+  BugColonyStaticData: {fileID: 11400000, guid: 36e6fa52b2bcb4f4b8e2d271e93c2e53, type: 2}

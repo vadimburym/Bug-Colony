@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f835e6b4884c473da8758b179cbdccc2, type: 3}
+  m_Name: Food
+  m_EditorClassIdentifier: _Project.StaticData::_Project.Code.StaticData.FoodConfig
+  ConsumeReward: 1
+  IsStaticBody: 1
+  ColliderRadius: 0.5
+  ViewPoolId: 3
+  ContactRules: []
+  ConsumableRule:
+    rid: 8739359902935023697
+  DestroyRule:
+    rid: 8739359902935023698
+  references:
+    version: 2
+    RefIds:
+    - rid: 8739359902935023697
+      type: {class: DefaultConsumableRule, ns: _Project.Code.Gameplay.CoreFeatures, asm: _Project.Gameplay}
+      data: 
+    - rid: 8739359902935023698
+      type: {class: FoodDestroyRule, ns: _Project.Code.Gameplay.CoreFeatures, asm: _Project.Gameplay}
+      data: 
